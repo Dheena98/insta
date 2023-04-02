@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 const Landing_page = () => {
   return (
     <div>
-        <h2>Landing_page</h2>
+        <h2>Welcome to InstaGram Clone</h2>
        <NavLink to = "/allpost">
        <button>
           Let us see the posts
